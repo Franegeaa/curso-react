@@ -47,7 +47,7 @@ function App() {
   }
  
   const handleChange = (event) => {
-    setSearch(event.target.value)    
+    setSearch(event.target.value)
   }
 
   return(
